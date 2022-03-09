@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chauhan</h1>
 <h3 align="center">Pursuing Masters from Indian Institute of Information Technology, Lucknow</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anonymounew&label=Profile%20views&color=0e75b6&style=flat" alt="anonymounew" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymounew&label=Profile%20views&color=0e75b6&style=flat" alt="anonymounew" /> </p>
 
 - 👀 I’m interested in **AI/ML/Data Science**
 - 🌱 I’m currently learning **Data Science**
